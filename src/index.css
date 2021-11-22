@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.css-1i5alow-MuiButtonBase-root-MuiFab-root-MuiSpeedDial-fab {
+  width: 35px !important;
+  height: 35px !important;
+}
+a:-webkit-any-link {
+  text-decoration: none !important;
+}
